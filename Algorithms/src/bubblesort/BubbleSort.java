@@ -42,5 +42,4 @@ public class BubbleSort {
 		bubbleSort(theArray);
 		printArray(theArray);
 	}
-
 }
