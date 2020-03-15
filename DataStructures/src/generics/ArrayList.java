@@ -8,7 +8,7 @@ public class ArrayList<E> {
 
 	private int size = 0;
 
-	private final int INITIAL_CAPACITY = 10;
+	private int INITIAL_CAPACITY = 10;
 
 	ArrayList() {
 
@@ -35,7 +35,7 @@ public class ArrayList<E> {
 
 		size++;
 
-	}
+ 	}
 
 	// inserts the specified element at the specified position in the list.
 	void add(int index, E data) {

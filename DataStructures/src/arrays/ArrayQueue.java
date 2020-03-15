@@ -1,4 +1,4 @@
-package queue;
+package arrays;
 
 public class ArrayQueue {
 
