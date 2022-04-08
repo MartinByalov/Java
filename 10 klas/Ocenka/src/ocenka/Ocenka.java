@@ -2,7 +2,6 @@ package ocenka;
 
 import java.util.Scanner;
 
-
 // Оценка
 public class Ocenka {
 
