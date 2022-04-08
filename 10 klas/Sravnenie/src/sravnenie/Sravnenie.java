@@ -2,6 +2,7 @@ package sravnenie;
 
 import java.util.Scanner;
 
+// Сравнение
 public class Sravnenie {
 
 	// Начало
