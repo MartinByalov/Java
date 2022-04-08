@@ -33,7 +33,6 @@ public class Sravnenie {
 
 			// Изведи x
 			System.out.println("x = b = " + x);
-
 		}
 
 		// Ако c > x
